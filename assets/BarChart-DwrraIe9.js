@@ -1,0 +1,1 @@
+import{P as e,j as t}from"./index-CxJVzzdR.js";import{M as n,n as r}from"./useChartTheme-CWQtPbAK.js";var i=e(t()),a=[`axis`,`item`],o=(0,i.forwardRef)((e,t)=>i.createElement(r,{chartName:`BarChart`,defaultTooltipEventType:`axis`,validateTooltipEventTypes:a,tooltipPayloadSearcher:n,categoricalChartProps:e,ref:t}));export{o as t};
