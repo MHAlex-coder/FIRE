@@ -1,0 +1,1 @@
+import{I as e,N as t}from"./index-CJpRj_Su.js";import{M as n,n as r}from"./useChartTheme-CVxEr-4l.js";var i=e(t()),a=[`axis`,`item`],o=(0,i.forwardRef)((e,t)=>i.createElement(r,{chartName:`BarChart`,defaultTooltipEventType:`axis`,validateTooltipEventTypes:a,tooltipPayloadSearcher:n,categoricalChartProps:e,ref:t}));export{o as t};
